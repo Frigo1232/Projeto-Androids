@@ -35,7 +35,10 @@ header{
     
     
 }
-
+a:visited{
+    text-decoration:none;
+    color: white;
+}
 
 nav{
     text-align: left;
@@ -53,7 +56,7 @@ nav>a{
     transition-duration: 0.5s;
 
 }
-a:hover {
+nav a:hover {
     background-color: #04381f;
     border-radius: 7px;
     font-size: 16.5px;
