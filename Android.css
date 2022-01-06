@@ -106,15 +106,7 @@ footer>ul{
     list-style-position: inside;
     columns: 2;
 }
-#fim{
-    text-align: right;
-    color: white;
-    font-size: 20px;
-    margin: auto;
-    padding: 12px;
-    width: 800px;
-   
-    }
+
 img{
     width: 100%;
 }
@@ -138,4 +130,17 @@ iframe{
     width: 90%;
     height: 90%;
     
+}
+div#nome{
+    text-align: right;
+    color: white;
+    font-size: 20px;
+    width: 43%;
+    margin: auto;
+    margin-top: 10px;
+    text-shadow: 
+               -1px -1px 0px rgb(0, 0, 0), 
+               -1px 1px 0px rgb(0, 0, 0),      
+                1px -1px 0px rgb(0, 0, 0),    
+                1px 0px 0px rgb(0, 0, 0);
 }
